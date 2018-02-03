@@ -1,0 +1,15 @@
+org\kekelidos\weather\application\WeatherApplication\WeatherClass.class
+org\kekelidos\weather\application\WeatherApplication\model\DataObject.class
+org\kekelidos\weather\application\WeatherApplication\model\SingleItemObject.class
+org\kekelidos\weather\application\WeatherApplication\WeatherApplication.class
+org\kekelidos\weather\application\WeatherApplication\model\DataPath.class
+org\kekelidos\weather\application\WeatherApplication\model\DataCategoriesPath.class
+org\kekelidos\weather\application\WeatherApplication\model\DataTypesPath.class
+org\kekelidos\weather\application\WeatherApplication\model\LocationCategoriesPath.class
+org\kekelidos\weather\application\WeatherApplication\TestJsonPojos.class
+org\kekelidos\weather\application\WeatherApplication\model\DatasetsPath.class
+org\kekelidos\weather\application\WeatherApplication\model\Results.class
+org\kekelidos\weather\application\WeatherApplication\model\StationPath.class
+org\kekelidos\weather\application\WeatherApplication\model\PathModel.class
+org\kekelidos\weather\application\WeatherApplication\WeatherObject.class
+org\kekelidos\weather\application\WeatherApplication\model\LocationPath.class
