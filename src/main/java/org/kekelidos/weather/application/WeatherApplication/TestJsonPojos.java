@@ -33,7 +33,7 @@ public class TestJsonPojos {
 		}catch(IOException e) {
 			e.printStackTrace();
 		}
-		
+		//checking the searchesults function
 		DataObject myObject = mapper.readValue(data, DataObject.class);
 		System.out.println(myObject.toString());
 		myObject.SearchResults("tavg");
