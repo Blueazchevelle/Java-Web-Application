@@ -37,7 +37,7 @@ public class TestJsonPojos {
 		DataObject myObject = mapper.readValue(data, DataObject.class);
 		System.out.println(myObject.toString());
 		myObject.SearchResults("tavg");
-//		System.out.println("first single data = "+ myObject.SearchResults("prcp"));
+		System.out.println("first single data = "+ myObject.SearchResults("prcp"));
 		
 
 	}
